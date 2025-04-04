@@ -1,6 +1,6 @@
 import { StyleSheet, View } from 'react-native';
-import Title from './components/Title';
-import FormIMC from './components/FormIMC';
+import Title from './src/components/Title';
+import FormIMC from './src/components/FormIMC';
 
 export default function App() {
   return (
@@ -14,7 +14,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: 'aquamarine',
     padding: 16,
     justifyContent: 'center',
   },
