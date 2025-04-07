@@ -11,4 +11,4 @@
 Esse aplicativo tem como objetivo calcular o imc, apresentar a classificação a partir do imc calculado e mostrar os pesos ideais.
 
 ### Vídeo de apresentação:
-[text](https://youtube.com/shorts/qap6aSxoBQE?feature=share)
+https://youtube.com/shorts/qap6aSxoBQE?feature=share
